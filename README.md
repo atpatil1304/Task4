@@ -1,4 +1,4 @@
-# CalculatoApplication
+# Calculator App
 
 Hello Everyone. It is my 4th task of LetsGrowMore Web Development Internship.
 
