@@ -1,4 +1,4 @@
-# Calculator
+# CalculatoApplication
 
 Hello Everyone. It is my 4th task of LetsGrowMore Web Development Internship.
 
@@ -8,7 +8,7 @@ I have created this site using simple HTML, CSS and JavaScript.
 
 You can also check the live working of this site on :
 
-https://siddhantagrawa1.github.io/Calculator/
+https://atpatil1304.github.io/Task4/
 
 
 
